@@ -6,7 +6,6 @@
 - 💞️ I’m looking to collaborate on Degen Memecoin Traders
 - 📫 How to reach me [Takhi](https://t.me/@Takhi777)
 - 😄 Pronouns: Wildhorse
-- ⚡ Fun fact: I lost my old github and old telegram currently, I don't know why it is happening, I am uploading my all repositories to this new github account.
 - ⚡ Top News: Pumpfun launched their new AMM pool called PumpSwap. Let's build new bots on that.
 
 <!---
