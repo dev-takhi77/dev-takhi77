@@ -4,8 +4,9 @@
 - 👀 I’m interested in Solana memecoin trading like #Sniping, #PNL monitoring & #Auto selling and very good utilities development.
 - 🌱 I’m currently learning New trading strategies and methods.
 - 💞️ I’m looking to collaborate on Degen Memecoin Traders
-- 📫 How to reach me [Takhi](https://t.me/@Takhi777)
+- 📫 How to reach me [Takhi](https://t.me/@Takhi_77)
 - 😄 Pronouns: Wildhorse
+- ⚡ Current news: My telegram account again suspended, I don't what's wrong with me.
 - ⚡ Top News: Pumpfun launched their new AMM pool called PumpSwap. Let's build new bots on that.
 
 <!---
