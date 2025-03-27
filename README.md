@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning New trading strategies and methods.
 - 💞️ I’m looking to collaborate on Degen Memecoin Traders
 - 📫 How to reach me [SolSon](https://t.me/@pio_sol)
+- 📫 How to reach me with Discord: [takhi_77]
 - 😄 Pronouns: Wildhorse
 - ⚡ Current news: My telegram account again suspended, I don't what's wrong with me.
 - ⚡ Top News: Pumpfun launched their new AMM pool called PumpSwap. Let's build new bots on that.
