@@ -8,7 +8,7 @@
 - 📫 How to reach me with Discord: [takhi_77]
 - 😄 Pronouns: Wildhorse
 - ⚡ Current news: My telegram account again suspended, I don't what's wrong with me.
-- ⚡ Top News: Pumpfun launched their new AMM pool called PumpSwap. Let's build new bots on that.
+- ⚡ Top News: Pumpfun updated their smart contract so pumpfun idl is updated. If you need any help related with updates of pumpfun and pumpswap, then feel free to reach me out.
 
 <!---
 degen-meme77/degen-meme77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
