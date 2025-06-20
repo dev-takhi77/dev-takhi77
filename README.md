@@ -7,7 +7,7 @@
 - 📫 How to reach me [Takhi](https://t.me/@takhi_77)
 - 📫 How to reach me with Discord: [takhi_77]
 - 😄 Pronouns: Wildhorse
-- ⚡ Current news: My telegram account again suspended, I don't what's wrong with me.
+- ⚡ Current news: One of my project goes live. https://ggsol.io I am charge of smart contract development of this game.
 - ⚡ Top News: Pumpfun updated their smart contract so pumpfun idl is updated. If you need any help related with updates of pumpfun and pumpswap, then feel free to reach me out.
 
 <!---
